@@ -1,4 +1,7 @@
 Revision history for Bundle-COG
 
+0.02  Mon Dec 27 19:37:00 2004
+	- added Filesys::DiskUsage
+
 0.01  Thu Dec 23 19:46:00 2004
         - first version

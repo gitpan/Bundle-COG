@@ -1,16 +1,18 @@
 package Bundle::COG;
 
-$VERSION = '0.01';
+$VERSION = '0.02';
 
 =head1 NAME
 
-Bundle::COG - install all modules by COG
+Bundle::COG - Install all modules by COG
 
 =head1 SYNOPSIS
 
 cpan Bundle::COG
 
 =head1 CONTENTS
+
+Filesys::DiskUsage
 
 Games::Messages
 
