@@ -1,9 +1,9 @@
-Bundle::COG version 0.02
-===========================
+Bundle::COG version 0.03
+========================
 
 =head1 NAME
 
-Bundle::COG - install all modules by COG
+Bundle::COG - Install all modules by COG
 
 =head1 SYNOPSIS
 
@@ -11,7 +11,17 @@ cpan Bundle::COG
 
 =head1 CONTENTS
 
+Acme::AsciiArt2HtmlTable
+
+Date::Holidays::PT
+
+File::Munger
+
 Filesys::DiskUsage
+
+Filesys::Tree
+
+Games::PetalsAroundTheRose
 
 Games::Messages
 
@@ -51,5 +61,6 @@ Jose Castro, C<< <cog@cpan.org> >>
 
 Copyright 2004 Jose Castro, All Rights Reserved.
 
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
+

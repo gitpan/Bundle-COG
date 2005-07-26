@@ -1,5 +1,13 @@
 Revision history for Bundle-COG
 
+0.03  Tue Jul 26 11:04:00 2005
+	- fixed a glitch in the documentation
+	- added Acme::AsciiArt2HtmlTable
+	- added Date::Holidays::PT
+	- added File::Munger
+	- added Filesys::Tree
+	- added Games::PetalsAroundTheRose
+
 0.02  Mon Dec 27 19:37:00 2004
 	- added Filesys::DiskUsage
 

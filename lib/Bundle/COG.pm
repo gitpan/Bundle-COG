@@ -1,6 +1,6 @@
 package Bundle::COG;
 
-$VERSION = '0.02';
+$VERSION = '0.03';
 
 =head1 NAME
 
@@ -12,7 +12,17 @@ cpan Bundle::COG
 
 =head1 CONTENTS
 
+Acme::AsciiArt2HtmlTable
+
+Date::Holidays::PT
+
+File::Munger
+
 Filesys::DiskUsage
+
+Filesys::Tree
+
+Games::PetalsAroundTheRose
 
 Games::Messages
 
@@ -52,8 +62,8 @@ Jose Castro, C<< <cog@cpan.org> >>
 
 Copyright 2004 Jose Castro, All Rights Reserved.
 
-This program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself.
+This program is free software; you can redistribute it and/or modify
+it under the same terms as Perl itself.
 
 =cut
 
