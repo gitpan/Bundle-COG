@@ -1,6 +1,6 @@
 package Bundle::COG;
 
-$VERSION = '0.03';
+$VERSION = '0.04';
 
 =head1 NAME
 
@@ -47,6 +47,8 @@ Mail::LocalDelivery
 Number::Phone::PT
 
 PT::PostalCode
+
+Test::RandomResults
 
 Text::Affixes
 

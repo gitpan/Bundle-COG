@@ -1,5 +1,8 @@
 Revision history for Bundle-COG
 
+0.04  Fri Nov 04 20:45:00 2005
+	- added Test::RandomResults
+
 0.03  Tue Jul 26 11:04:00 2005
 	- fixed a glitch in the documentation
 	- added Acme::AsciiArt2HtmlTable

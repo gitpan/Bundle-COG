@@ -1,4 +1,4 @@
-Bundle::COG version 0.03
+Bundle::COG version 0.04
 ========================
 
 =head1 NAME
@@ -46,6 +46,8 @@ Mail::LocalDelivery
 Number::Phone::PT
 
 PT::PostalCode
+
+Test::RandomResults
 
 Text::Affixes
 
