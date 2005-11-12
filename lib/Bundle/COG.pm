@@ -1,6 +1,6 @@
 package Bundle::COG;
 
-$VERSION = '0.04';
+$VERSION = '0.05';
 
 =head1 NAME
 
@@ -13,6 +13,10 @@ cpan Bundle::COG
 =head1 CONTENTS
 
 Acme::AsciiArt2HtmlTable
+
+Business::PT::BI
+
+Business::PT::NIF
 
 Date::Holidays::PT
 
@@ -55,6 +59,8 @@ Text::Affixes
 Text::Beautify
 
 Text::Ngram
+
+WWW::Dictionary
 
 =head1 AUTHOR
 

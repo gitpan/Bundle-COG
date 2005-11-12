@@ -1,5 +1,10 @@
 Revision history for Bundle-COG
 
+0.05  Sat Nov 12 03:24:00 2005
+	- added Business::PT::BI
+	- added Business::PT::NIF
+	- added WWW::Dictionary
+
 0.04  Fri Nov 04 20:45:00 2005
 	- added Test::RandomResults
 
