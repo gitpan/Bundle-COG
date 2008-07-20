@@ -1,6 +1,6 @@
 package Bundle::COG;
 
-$VERSION = '0.05';
+$VERSION = '0.06';
 
 =head1 NAME
 
@@ -14,21 +14,21 @@ cpan Bundle::COG
 
 Acme::AsciiArt2HtmlTable
 
+Acme::BooK::Is::My::Bitch
+
 Business::PT::BI
 
 Business::PT::NIF
 
 Date::Holidays::PT
 
-File::Munger
-
 Filesys::DiskUsage
 
 Filesys::Tree
 
-Games::PetalsAroundTheRose
-
 Games::Messages
+
+Games::PetalsAroundTheRose
 
 Games::Score
 
@@ -50,15 +50,11 @@ Mail::LocalDelivery
 
 Number::Phone::PT
 
-PT::PostalCode
-
 Test::RandomResults
 
 Text::Affixes
 
 Text::Beautify
-
-Text::Ngram
 
 WWW::Dictionary
 
